@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-30T22:21:12 EET" name="Default suite" finished-at="2022-05-30T22:21:24 EET" duration-ms="12265">
+    <groups>
+    </groups>
+    <test started-at="2022-05-30T22:21:12 EET" name="Default test" finished-at="2022-05-30T22:21:24 EET" duration-ms="12265">
+      <class name="demoblazeTest.demoblazeTest.demoblazeE2E">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:demoblazeTest.demoblazeTest.demoblazeE2E@3cc20577]" started-at="2022-05-30T22:21:12 EET" name="beforeTest" finished-at="2022-05-30T22:21:12 EET" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="BuyNewLaptopTest()[pri:0, instance:demoblazeTest.demoblazeTest.demoblazeE2E@3cc20577]" started-at="2022-05-30T22:21:12 EET" name="BuyNewLaptopTest" finished-at="2022-05-30T22:21:24 EET" duration-ms="12007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyNewLaptopTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:demoblazeTest.demoblazeTest.demoblazeE2E@3cc20577]" started-at="2022-05-30T22:21:24 EET" name="afterTest" finished-at="2022-05-30T22:21:24 EET" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- demoblazeTest.demoblazeTest.demoblazeE2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
